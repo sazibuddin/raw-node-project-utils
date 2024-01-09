@@ -1,0 +1,13 @@
+{
+  "name": "uptimelimiter",
+  "version": "1.0.0",
+  "description": "The project will check the provided url status is down or up and will send a sms if the url is down.",
+  "main": "index.js",
+  "scripts": {
+    "start" : "NODE_ENV=staging nodemon index",
+    "production" : "NODE_ENV=production nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md Sazib Uddin",
+  "license": "ISC"
+}
