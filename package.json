@@ -1,5 +1,5 @@
 {
-  "name": "uptimelimiter",
+  "name": "Raw-nodejs-project-utils",
   "version": "1.0.0",
   "description": "The project will check the provided url status is down or up and will send a sms if the url is down.",
   "main": "index.js",
